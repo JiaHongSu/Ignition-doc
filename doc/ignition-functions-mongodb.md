@@ -1,10 +1,5 @@
 # Ignition 8.1 - system.mongodb 函數文檔
 
-﻿# Ignition 8.1 - 函數文檔（PATTERN 規範）
-
-> 根據 FUNCTION_PATTERN 爬蟲生成
-> 生成時間: 2026年04月19日 00:56:44
-> 總計函式數: 434
 
 ## 📑 目錄
 
